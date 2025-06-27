@@ -64,7 +64,6 @@ pip install -r requirements.txt
 ```
 3. Ejecutar el notebook `.ipynb`.
 
-## 📬 Contacto
+---
 
-Facundo Salazar Garzón  
-[LinkedIn](https://www.linkedin.com)
+Autor: **Facundo Salazar Garzón**
