@@ -48,6 +48,3 @@ Ver `requirements.txt` para las dependencias necesarias.
 2. Descargar el dataset `creditcard.csv` y colocarlo en la carpeta `data/`.
 3. Ejecutar el archivo Jupyter Notebook `Predictor_Fraude.ipynb`.
 
-## 📄 Licencia
-
-Este proyecto es de uso libre para fines educativos y demostrativos.
