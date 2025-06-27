@@ -42,9 +42,7 @@ Este enfoque puede ser altamente efectivo en contextos reales de e-commerce o fi
 
 Ver `requirements.txt` para las dependencias necesarias.
 
-## 🚀 Cómo usar
+---
 
-1. Clonar este repositorio.
-2. Descargar el dataset `creditcard.csv` y colocarlo en la carpeta `data/`.
-3. Ejecutar el archivo Jupyter Notebook `Predictor_Fraude.ipynb`.
+Autor: **Facundo Salazar Garzón**
 
