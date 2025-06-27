@@ -92,3 +92,5 @@ pip install -r requirements.txt
 - Scikit-learn
 
 ---
+
+Autor: **Facundo Salazar Garzón**
